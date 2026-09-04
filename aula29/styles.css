@@ -1,0 +1,27 @@
+#textoexemplo {
+    color:blue;
+    font-size: 30px;
+    font-family:Papyrus;
+    
+}
+
+h1, h2, h3,h4,h5,h6{font-family: Comic Sans MS;
+    font-weight: bold;
+    color: rgb(77, 77, 45);
+
+
+}
+
+.italicoLinha{
+    font-style: italic;
+    border-bottom: solid 1px rgb(0, 0, 0);
+
+}
+
+#destaque {
+    color: rgb(255, 0, 0);
+    font-size: 80px;
+    font-family: arial;
+    font-weight: bold;
+}
+ 
